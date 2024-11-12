@@ -19,10 +19,11 @@
 // iqra2= "Am frontend developer";
 // let iqra2 = "mein error duga"
 
-const iqra3 = "am developer"
+const iqra3 = "am developer" //
 // iqra3 = "update const variable"
 // const iqra3= "something"
 
 // console.log(iqra);
 // console.log(iqra2);
 console.log(iqra3);
+
